@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">الاستغفار</string>
+    <string name="dhikr_astaghfirullah">أستغفر الله العظيم</string>
+    <string name="dhikr_subtext">وأتوب إليه</string>
+    <string name="reset_btn">إعادة التعيين</string>
+    <string name="completed_title">ما شاء الله، مبارك الإتمام!</string>
+    <string name="completed_message">لقد أتممت 99 استغفاراً. تقبل الله طاعتكم وغفر ذنبكم وشرح صدركم.</string>
+    <string name="restart_round">بدء جولة جديدة (99)</string>
+    <string name="total_completed">إجمالي الاستغفار اليوم:</string>
+    <string name="rounds_count">عدد الجولات:</string>
+    <string name="night_mode">الوضع الليلي</string>
+    <string name="vibration">الاهتزاز</string>
+    <string name="sound">صوت التنبيه</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="sayyid_istighfar_title">سيد الاستغفار</string>
+    <string name="sayyid_istighfar_text">اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "الاستغفار",
+  "description": "عداد الاستغفار التنازلي التفاعلي (99) مع خاصية التنبيه وإعادة التعيين، بتصميم إسلامي هادئ بخلفية المسجد ودعم الوضع الليلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
